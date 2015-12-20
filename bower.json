@@ -1,0 +1,27 @@
+{
+  "name": "responsive-table",
+  "description": "responsive-table,made by junjun,is very good for your project!",
+  "main": "bootstrap.min.css",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "bootstrap3",
+    "Responsive-table"
+  ],
+  "authors": [
+    "junjun-liu"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+  "dependencies": {
+    "bootstrap": "1.9.1 - 2"
+  }
+}
